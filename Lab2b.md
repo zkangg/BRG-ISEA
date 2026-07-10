@@ -11,8 +11,7 @@ Deploy a cloud‑based web server using Amazon EC2 and practice Bash scripting f
 - Connected to the instance via SSH using key pair
 - Installed Apache web server (`sudo apt install apache2 -y`)
 - Verified deployment by accessing the public IP in a browser
-- Wrote and executed Bash scripts to:
-  - Create backup archives using `tar`
+- Wrote and executed Bash scripts
 - Tested automation by running scripts and checking logs
 
 ## 📸 Screenshots
