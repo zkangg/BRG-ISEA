@@ -15,26 +15,30 @@ Learn how to manage Linux services, secure remote access with SSH, configure fir
 - Archived logs and datasets for efficient storage and transfer
 
 ## 📸 Screenshots
-![SSH connection]
+# SSH connection
+
 <img width="569" height="132" alt="6 Explicit username" src="https://github.com/user-attachments/assets/c7c93b68-a5f1-4319-8628-e00470ca9429" />
 *Successful SSH login to partner VM*
 
-![Firewall rules]
+### Firewall rules
+
 <img width="701" height="510" alt="5 Firewall (UFW)" src="https://github.com/user-attachments/assets/f138cc0d-5683-46c5-b8d2-0cc405890708" />
 *UFW showing allowed ports for SSH and HTTP*
 
-![File compression]
+### File compression
+
 <img width="582" height="591" alt="8 Compression   Decompression" src="https://github.com/user-attachments/assets/991c8cd3-f0bd-49ce-a127-18d8b9b15092" />
 *Archive created and compressed with tar/gzip*
 
-![Permissions demo] 
+### Permissions demo
 
 *Using chmod to restrict access to a file*
 
-![File search] 
+### File search
+
 <img width="1113" height="628" alt="3 find_txt" src="https://github.com/user-attachments/assets/e3aa68bf-3322-425a-8f8f-96d82f0a9f15" />
 
-*Using find and grep to locate files with specific content*
+Using find and grep to locate files with specific content
 
 ## 💡 Reflection
 - What’s the role of a firewall in managing services? 
