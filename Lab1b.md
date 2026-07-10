@@ -33,13 +33,14 @@ Learn how to manage Linux services, secure remote access with SSH, configure fir
 *Archive created and compressed with tar/gzip*
 
 ### Permissions demo
+<img width="654" height="451" alt="5 Permissions" src="https://github.com/user-attachments/assets/909eec1d-f179-43f0-8f71-daa3d8a9c26f" />
 
 *Using chmod to restrict access to a file*
 
 ### File search
 <img width="1113" height="628" alt="3 find_txt" src="https://github.com/user-attachments/assets/e3aa68bf-3322-425a-8f8f-96d82f0a9f15" />
 
-Using find and grep to locate files with specific content
+*Using find and grep to locate files with specific content*
 
 ## 💡 Reflection
 - What’s the role of a firewall in managing services? 
