@@ -1,4 +1,4 @@
-# Lab 1a – 
+# Lab 1a
 
 ## 🔍 Objective
 
