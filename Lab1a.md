@@ -11,8 +11,8 @@ Set up a virtualised Linux environment and gain hands‑on experience with Ubunt
 - Installed Ubuntu and explored both GUI and CLI
 
 ## 📸 Screenshots
-[VirtualBox setup](https://github.com/zkangg/BRG-ISEA/blob/main/3.%20New%20VM%20Created.png)
-[Ubuntu desktop](https://github.com/zkangg/BRG-ISEA/blob/main/4.%20Ubuntu%20Installation%20Completed.png)
+![VirtualBox setup](https://github.com/zkangg/BRG-ISEA/blob/main/3.%20New%20VM%20Created.png)
+![Ubuntu desktop](https://github.com/zkangg/BRG-ISEA/blob/main/4.%20Ubuntu%20Installation%20Completed.png)
 <img width="630" height="63" alt="2  Ubuntu ISO Downloaded" src="https://github.com/user-attachments/assets/7e71e5e4-0433-4142-8462-fb21fbc74aad" />
 
 
