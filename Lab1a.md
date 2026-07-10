@@ -1,5 +1,4 @@
-# Lab 1a – Virtualisation & Linux Setup
-### Ubuntu Desktop and Command Line Familiarisation
+# Lab 1a – Virtualisation & Linux Setup, Ubuntu Desktop and Command Line Familiarisation
 
 ## 🔍 Objective
 Set up a virtualised Linux environment, install Ubuntu, and gain familiarity with both the desktop interface and the command line.
