@@ -10,12 +10,11 @@ Set up a virtualised Linux environment and gain hands‑on experience with Ubunt
 - Installed Ubuntu and explored both GUI and CLI
 
 ## 📸 Screenshots
-<img width="321" height="436" alt="3  New VM Created" src="https://github.com/user-attachments/assets/b03f0dce-4514-4aad-8ae3-63261b0585a7" />
-*VirtualBox setup*
-<img width="1920" height="1032" alt="4  Ubuntu Installation Completed" src="https://github.com/user-attachments/assets/06ba3b77-82cd-41b8-96e5-27a818586420" />
-*Ubuntu desktop*
+### VirtualBox Setup
+![VirtualBox setup]<img width="321" height="436" alt="3  New VM Created" src="https://github.com/user-attachments/assets/c01db819-4603-4293-a26c-e62f71eb1221" />
 
-
+### Ubuntu Desktop
+![Ubuntu desktop]<img width="1920" height="1032" alt="4  Ubuntu Installation Completed" src="https://github.com/user-attachments/assets/6bb81fb0-4f3e-48e1-91d8-2ec00d80bff7" />
 
 ## 💡 Reflection
 1. Challenges during VM setup  
