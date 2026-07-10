@@ -28,5 +28,3 @@ Virtual machines are useful for testing software, running servers, practicing cy
 
 5. What I’d do differently next time  
 I would give the VM more RAM and disk space, take snapshots for backup, and keep better notes of each step to make troubleshooting easier.
-
-
