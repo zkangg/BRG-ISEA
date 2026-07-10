@@ -1,4 +1,5 @@
-# Lab 1b – Linux Services, SSH, Firewalls & Compression  
+# Lab 1b
+### Linux Services, SSH, Firewalls & Compression  
 ### Linux File Permissions and Group Access Control
 
 ## 🔍 Objective
