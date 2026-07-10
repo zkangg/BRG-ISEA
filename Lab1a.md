@@ -1,4 +1,3 @@
-<img width="321" height="436" alt="3  New VM Created" src="https://github.com/user-attachments/assets/deed3d20-5173-4fc8-be55-2ff58302bdca" />
 # Lab 1a – Virtualisation & Linux Setup
 
 ## 🔍 Objective
@@ -11,9 +10,11 @@ Set up a virtualised Linux environment and gain hands‑on experience with Ubunt
 - Installed Ubuntu and explored both GUI and CLI
 
 ## 📸 Screenshots
-![VirtualBox setup](https://github.com/zkangg/BRG-ISEA/blob/main/3.%20New%20VM%20Created.png)
-![Ubuntu desktop](https://github.com/zkangg/BRG-ISEA/blob/main/4.%20Ubuntu%20Installation%20Completed.png)
-<img width="630" height="63" alt="2  Ubuntu ISO Downloaded" src="https://github.com/user-attachments/assets/7e71e5e4-0433-4142-8462-fb21fbc74aad" />
+![VirtualBox setup]<img width="321" height="436" alt="3  New VM Created" src="https://github.com/user-attachments/assets/b03f0dce-4514-4aad-8ae3-63261b0585a7" />
+*Caption: VirtualBox setup*
+![Ubuntu desktop]<img width="1920" height="1032" alt="4  Ubuntu Installation Completed" src="https://github.com/user-attachments/assets/06ba3b77-82cd-41b8-96e5-27a818586420" />
+*Caption: Ubuntu desktop*
+
 
 
 ## 💡 Reflection
