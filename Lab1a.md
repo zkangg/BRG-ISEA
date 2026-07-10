@@ -19,17 +19,17 @@ Set up a virtualised Linux environment, install Ubuntu, and gain familiarity wit
 ### VirtualBox Setup
 <img width="321" height="436" alt="3  New VM Created" src="https://github.com/user-attachments/assets/c01db819-4603-4293-a26c-e62f71eb1221" />
 
-VirtualBox VM created for Ubuntu installation
+*VirtualBox VM created for Ubuntu installation*
 
 ### Ubuntu Desktop
 <img width="1920" height="1032" alt="4  Ubuntu Installation Completed" src="https://github.com/user-attachments/assets/6bb81fb0-4f3e-48e1-91d8-2ec00d80bff7" />
 
-Ubuntu desktop after successful installation
+*Ubuntu desktop after successful installation*
 
 ### Terminal basics 
 <img width="1282" height="885" alt="2 ls -la" src="https://github.com/user-attachments/assets/fff0cad8-64d7-46ca-8c31-13c6294b1847" />
 
-Running ls in the terminal
+*Running ls in the terminal*
 
 ## Challenges
 1. Challenges during VM setup  
