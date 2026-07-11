@@ -1,5 +1,5 @@
 # Lab 3b
-## Additional Server Setup (MariaDB)
+### Additional Server Setup (MariaDB)
 
 ## 🔍 Objective
 Install and configure MariaDB on a cloud server to provide database services, test connectivity, and practice basic SQL operations.
@@ -9,3 +9,6 @@ Install and configure MariaDB on a cloud server to provide database services, te
   ```bash
   sudo apt update
 
+## 📸 Screenshots
+
+## 💡 Reflection
