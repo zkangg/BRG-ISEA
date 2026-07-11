@@ -1,4 +1,4 @@
-# Lab Blog
+# ICT171 - Introduction to Server Environments and Architecture
 
 Welcome to my lab reflections!
 
