@@ -35,16 +35,32 @@ Configure a custom domain name, set up DNS records, and secure a web server with
 
 ## 💡 Reflection
 What is the role of DNS in Internet presence?  
-It translates domain names into IP addresses so users can reach servers.
+- It translates domain names into IP addresses so users can reach servers.
 
 Why does DNS propagation take time?  
-Changes must update across many global DNS servers, which can take hours.
+- Changes must update across many global DNS servers, which can take hours.
 
 How does Let’s Encrypt validate domain ownership?  
-It connects to your domain on port 80 or 443 to confirm you control it.
+- It connects to your domain on port 80 or 443 to confirm you control it.
 
 What are the risks if TLS is not configured on a public-facing site?  
-Data can be intercepted, users see “Not Secure,” and trust is lost.
+- Data can be intercepted, users see “Not Secure,” and trust is lost.
 
 What could happen if you leave your cloud VM running for months?
-Leaving a cloud VM running for months can cause high costs, wasted resources, and security risks.
+- Leaving a cloud VM running for months can cause high costs, wasted resources, and security risks.
+---------------------------------------------------------------------------------------------------
+Why is HTTPS important for modern web applications?  
+- It secures data and builds user trust.
+
+What entity issued your site’s TLS certificate?  
+- Let’s Encrypt.
+
+How long is your certificate valid for, and how can it be renewed?  
+- Valid 90 days, renewed with Certbot.
+
+What happens if a certificate expires and is not renewed?  
+- Browsers show “Not Secure” and block access.
+
+Why does Let’s Encrypt require port 80 or 443 to be open for verification?  
+- They are needed for domain ownership checks.
+
