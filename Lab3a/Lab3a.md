@@ -26,10 +26,25 @@ Configure a custom domain name, set up DNS records, and secure a web server with
 ### Certbot
 <img width="724" height="335" alt="1 Certbot Installed" src="https://github.com/user-attachments/assets/f7b3a227-0e01-4fc5-b41a-da27a5e70134" />
 
-*Certbot Installed*
+*Certbot Installing*
 
 ### Domain → Server
 <img width="974" height="671" alt="1 Domain → Server" src="https://github.com/user-attachments/assets/3ab56063-08d6-4821-87a1-2772e59d321e" />
 
 *duckdns*
 
+## 💡 Reflection
+What is the role of DNS in Internet presence?  
+It translates domain names into IP addresses so users can reach servers.
+
+Why does DNS propagation take time?  
+Changes must update across many global DNS servers, which can take hours.
+
+How does Let’s Encrypt validate domain ownership?  
+It connects to your domain on port 80 or 443 to confirm you control it.
+
+What are the risks if TLS is not configured on a public-facing site?  
+Data can be intercepted, users see “Not Secure,” and trust is lost.
+
+What could happen if you leave your cloud VM running for months?
+Leaving a cloud VM running for months can cause high costs, wasted resources, and security risks.
