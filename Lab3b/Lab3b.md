@@ -15,13 +15,13 @@ Install and configure MariaDB on a cloud server to provide database services, te
 - Secured installation:
   ```bash
   sudo mariadb-secure-installation
-- Current Root Password
-- Unix Socket Authentication
-- Set root password
-- Removed anonymous users
-- Disabled remote root login
-- Removed test database
-- Reload Privilege Tables
+  1.Current Root Password
+  2.Unix Socket Authentication
+  3.Set root password
+  4.Removed anonymous users
+  5.Disabled remote root login
+  6.Removed test database
+  7.Reload Privilege Tables
 - Tested login:
   ```bash
   sudo mysql -u root -p
