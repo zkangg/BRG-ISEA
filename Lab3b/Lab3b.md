@@ -12,7 +12,6 @@ Install and configure MariaDB on a cloud server to provide database services, te
 - Checked service status:
   ```bash
   sudo systemctl status mariadb
-→ Output showed Active: active (running)
 
 - Secured installation:
   ```bash
@@ -36,6 +35,8 @@ Install and configure MariaDB on a cloud server to provide database services, te
 
 ### Check status
 <img width="725" height="488" alt="2 Check status" src="https://github.com/user-attachments/assets/981550a6-1437-436a-acc0-dd32eede5055" />
+
+*Output showed Active: active (running)*
 
 ### Secure installation
 <img width="686" height="765" alt="3 Secure installation" src="https://github.com/user-attachments/assets/454288ba-55d5-4a13-bd1f-649bfe3415a5" />
