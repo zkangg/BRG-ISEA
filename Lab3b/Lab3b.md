@@ -14,7 +14,7 @@ Install and configure MariaDB on a cloud server to provide database services, te
 → Output showed Active: active (running)
 - Secured installation:
   ```bash
-sudo mariadb-secure-installation
+  sudo mariadb-secure-installation
 - Current Root Password
 - Unix Socket Authentication
 - Set root password
