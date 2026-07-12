@@ -3,7 +3,7 @@
 Welcome to my lab reflections!
 
 ## Labs
-- [Lab 1a](Lab1a.md)
+- [Lab 1a](Lab1a/Lab1a.md)
 - [Lab 1b](Lab1b.md)
 - [Lab 2a](Lab2a.md)
 - [Lab 2b](Lab2b.md)
