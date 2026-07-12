@@ -9,4 +9,3 @@ Welcome to my lab reflections!
 - [Lab 2b](Lab2b/Lab2b.md)
 - [Lab 3a](Lab3a/Lab3a.md)
 - [Lab 3b](Lab3b/Lab3b.md)
-- [Lab 4a](Lab4a/Lab4a.md)
