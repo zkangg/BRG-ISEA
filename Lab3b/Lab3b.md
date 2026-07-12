@@ -9,9 +9,11 @@ Install and configure MariaDB on a cloud server to provide database services, te
   ```bash
   sudo apt install mariadb-server -y
 Checked service status:
+  ```bash
   sudo systemctl status mariadb
 → Output showed Active: active (running)
 Secured installation:
+  ```bash
 sudo mariadb-secure-installation
 - Current Root Password
 - Unix Socket Authentication
@@ -20,6 +22,9 @@ sudo mariadb-secure-installation
 - Disabled remote root login
 - Removed test database
 - Reload Privilege Tables
+Tested login:
+  ```bash
+sudo mysql -u root -p
 
 ## 📸 Screenshots
 ### Install MariaDB
